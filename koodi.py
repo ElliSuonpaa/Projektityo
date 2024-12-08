@@ -117,7 +117,7 @@ def main(): # pääohjelma
 
 
 
-if __name__ == "__main__": # jos tiedostoa ajetaan suoraan, kutsutaan funktiota main
+if __name__ == "__main__": # kutsutaan pääohjelmaa
     main()
 
 

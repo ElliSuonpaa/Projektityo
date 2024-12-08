@@ -10,6 +10,9 @@ Tässä tiedostossa kuvaan Ohjelmoinnin perusteet -kurssin projektityöni: mitä
 
 Sovelluksen toteutuksessa on hyödynnetty aliohjelmia, toistorakenteita for - ja while -rakenteilla, ehtolauseita, try except - testirakennetta sekä virheilmoitusten nimeämistä. </p>
 
+<h4>Ohjelman käynnistäminen ja ympäristövaatimukset </h4>
+<p> Ohjelman suorittaminen vaatii Pythonin 3.7 tai uudemman version. Suosittaakseni ohjelman, lataa repositorion tiedostot ohjelmointiympäristöön kuten Visual Studio Codeen. Ohjelman suorittamiseksi tarvitset tiedostot koodi.py, jossa itse sovellus toimii. Lisäksi tarvitset tekstitiedostot arkiruoat.txt, synttarijuhlat.txt ja viikonloppu.txt. Voit käynnistää ohjelman koodi.py tiedostosta painamalla oikean yläkulman Play-painiketta.  </p>
+
 <h4>Kuvio sovelluksen rakenteesta: </h4>
 
 [Kuvaaja ohjelman rakenteesta](kuvaaja.png)
