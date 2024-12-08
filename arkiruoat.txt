@@ -1,0 +1,8 @@
+2,maito
+3,rahka
+5,banaani
+6,jogurtti
+5,peruna
+1,kaurahiutale
+3,maito
+1,purjo

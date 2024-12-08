@@ -1,0 +1,23 @@
+
+<h1> Ohjelmoinnin perusteet R0027-3030 - Laurea syksy 2024 </h1>
+<h2> Projektityö - Elli Suonpää </h2>
+
+Tässä tiedostossa kuvaan Ohjelmoinnin perusteet -kurssin projektityöni: mitä projekti tekee, miten se on rakennettu ja miten ohjelman saa käynnistettyä. Täältä löytyy myös linkki tallenteeseen, jossa esittelen koodia ja ohjelman toimintaa. 
+
+Ostoslista-sovellus
+
+Sovelluksessa on kolme erilaista ostoslistapohjaa: arkiruoat, viikonloppu ja synttärijuhlat. Ostoslistoja voi katsella, niihin voi lisätä sisältöä ja niistä voi poistaa sisältöä. Lisäksi voi siirtyä katsomaan muita ostoslistoja ilman että sulkee koko ohjelman. Ohjelmasta voi myös poistua. 
+
+Sovelluksen toteutuksessa on hyödynnetty aliohjelmia, toistorakenteita for - ja while -rakenteilla, ehtolauseita, try except - testirakennetta sekä virheilmoitusten nimeämistä. 
+
+Kuvio sovelluksen rakenteesta: 
+
+
+
+
+Linkki sovelluksen demoon: 
+
+Olen rakentanut koodin Visual Studio Codella, johon olen asentanut Copilot lisäosan. Copilot ehdotti minulle koodin pätkiä. Jos kohtasin ongelmia, pallottelin asian ratkaisemista Chat GPTn kanssa. Samoin kysyin chat GPT:ltä lisää tietoa, jos copilot ehdotti metodeita tai toimintoja, jotka eivät olleet minulle vielä tuttuja. 
+
+Kiitos kurssista ja tutustumisesta ostoslista-sovellukseeni. 
+

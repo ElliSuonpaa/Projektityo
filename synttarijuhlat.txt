@@ -1,0 +1,8 @@
+2,laastari
+4,sipsipussi
+3,popcorn
+6,limupullo
+5,karkkipussi
+4,patonki
+2,tuorejuusto
+5,olut
