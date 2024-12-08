@@ -2,7 +2,6 @@
 1,omenamehu
 3,suklaapatukka
 1,kauramaito
-2,sipsipussi
 2,dippijauhe
 2,kermaviili
 2,karkkipussi

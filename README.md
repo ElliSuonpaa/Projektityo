@@ -18,7 +18,7 @@ Sovelluksen toteutuksessa on hyödynnetty aliohjelmia, toistorakenteita for - ja
 [Kuvaaja ohjelman rakenteesta](kuvaaja.png)
 
 <h4>Linkki sovelluksen demoon: </h4>
-
+[linkki demotallenteeseen](https://youtu.be/IOFIQqJ5cGY)
 
 <p>Olen rakentanut koodin Visual Studio Codella, johon olen asentanut Copilot lisäosan. Copilot ehdotti minulle koodin pätkiä. Jos kohtasin ongelmia, pallottelin asian ratkaisemista Chat GPTn kanssa. Samoin kysyin chat GPT:ltä lisää tietoa, jos copilot ehdotti metodeita tai toimintoja, jotka eivät olleet minulle vielä tuttuja. 
 Kiitos kurssista ja tutustumisesta ostoslista-sovellukseeni. </p>
