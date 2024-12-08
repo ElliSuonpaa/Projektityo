@@ -12,7 +12,7 @@ Sovelluksen toteutuksessa on hyödynnetty aliohjelmia, toistorakenteita for - ja
 
 <h4>Kuvio sovelluksen rakenteesta: </h4>
 
-
+[Kuvaaja ohjelman rakenteesta](image.png)
 
 <h4>Linkki sovelluksen demoon: </h4>
 
