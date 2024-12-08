@@ -19,7 +19,7 @@ Olen rakentanut koodin Visual Studio Codella, johon olen asentanut Copilot lisä
 
 <h4>Linkki sovelluksen demoon: </h4>
 
-<p> [Linkki demotallenteeseen] (https://youtu.be/IOFIQqJ5cGY) </p>
+<p> Linkki demotallenteeseen https://youtu.be/IOFIQqJ5cGY </p>
 
 <p> Kiitos kurssista ja tutustumisesta ostoslista-sovellukseeni. </p>
 
