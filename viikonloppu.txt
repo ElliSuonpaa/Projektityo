@@ -8,3 +8,4 @@
 2,karkkipussi
 1,pepsipullo
 1,jaffapullo
+1,viinirypale

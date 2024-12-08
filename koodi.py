@@ -60,7 +60,13 @@ def poista_listalta(tiedoston_nimi): # funktio listalta poistamiselle eli vaihto
             else: # jos jokin muu kuin pilkku, tulostetaan virheilmoitus ja ohitetaan rivi
                 print(f"{i}. Virheellinen rivi ohitetaan: {rivi}")
 
-        valinta = int(input("Anna poistettavan kohdan numero: ")).strip() # kysytään käyttäjältä poistettavan kohdan numero
+        valinta = input("Anna poistettavan kohdan numero: ").strip() # pyydetään käyttäjää valitsemaan poistettava rivi
+        if not valinta.isdigit():  # Varmistetaan, että syöte on kokonaisluku
+            print("Virheellinen syöte. Anna numero.") # jos käyttäjä syöttää muun kuin numeron, tulostetaan virheilmoitus
+            return # palataan takaisin
+
+        valinta = int(valinta)  # Muutetaan numero kokonaisluvuksi
+        
         if 1 <= valinta <= len(kelvolliset_rivit): #tarkistetaan, että valinta on listan sisällä
             poistettava = kelvolliset_rivit[valinta - 1] # Poistettava rivi on listan indeksissä valinta - 1, koska me aloitimme numeroinnin ykkösestä
             rivit.remove(poistettava + "\n")  # Poistetaan rivi myös alkuperäisestä listasta
