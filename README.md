@@ -18,7 +18,7 @@ Olen rakentanut koodin Visual Studio Codella, johon olen asentanut Copilot lisä
 [Kuvaaja ohjelman rakenteesta](kuvaaja.png)
 
 <h4>Linkki sovelluksen demoon: </h4>
-Linkki demotallenteeseen [linkki demotallenteeseen] (https://youtu.be/IOFIQqJ5cGY)
+Täältä pääset katsomaan [demotallenteen] (https://youtu.be/IOFIQqJ5cGY)
 
 <p> Kiitos kurssista ja tutustumisesta ostoslista-sovellukseeni. </p>
 
